@@ -4,23 +4,23 @@ function App() {
   return (
     <div>
       <div>
-        <Button>Click Me!</Button>
+        <Button primary>Click Me!</Button>
       </div>
 
       <div>
-        <Button>Add to Cart</Button>
+        <Button secondary>Add to Cart</Button>
       </div>
 
       <div>
-        <Button>Buy Me!</Button>
+        <Button success>Buy Me!</Button>
       </div>
 
       <div>
-        <Button>View Cart</Button>
+        <Button warning>View Cart</Button>
       </div>
 
       <div>
-        <Button>Shipping Details</Button>
+        <Button danger>Shipping Details</Button>
       </div>
     </div>
   );
