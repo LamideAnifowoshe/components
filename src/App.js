@@ -12,16 +12,14 @@ function App() {
       </div>
 
       <div>
-        <Button secondary outline>
+        <Button outline secondary>
           <GoCloudDownload />
           Add to Cart
         </Button>
       </div>
 
       <div>
-        <Button success outline>
-          Buy Me!
-        </Button>
+        <Button success>Buy Me!</Button>
       </div>
 
       <div>
@@ -32,7 +30,7 @@ function App() {
       </div>
 
       <div>
-        <Button danger outline>
+        <Button outline danger>
           Shipping Details
         </Button>
       </div>
